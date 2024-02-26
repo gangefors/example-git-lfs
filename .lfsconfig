@@ -1,0 +1,2 @@
+[lfs]
+url = https://$USER@se.artifacts.axis.cloud/artifactory/api/lfs/slask-gitlfs-test-local
